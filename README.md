@@ -17,7 +17,7 @@ __Response__
 Here is how you can run the project locally:
 1.  Clone this repo
 	```sh
-	 git clone https://github.com/pnodeskuser/distance-calculator.git
+	 git clone {REPOSITORY_URL}
 	```
 2.  Go into the project root directory
     ```sh
@@ -47,15 +47,15 @@ Here is how you can run the project locally:
 	```sh
 	 php artisan app:calculate
 	```
-3. Input first string and hit Enter.
-4. Input second string and hit Enter.
+3. Input first string and hit enter.
+4. Input second string and hit enter.
 5. You should see the distance calculation of both the strings in the result.
 
 ![CLI Output](https://i.imgur.com/sOB6U1C.png)
 
 ## Unit Tests
 
-1. Goto your project directory using the following command.
+1. Goto the project directory using the following command.
 	```sh
 	 cd ./distance-calculator
 	```
